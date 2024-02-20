@@ -1,1 +1,1 @@
-print ("Hello Seba")
+print ("Hello Seba Wicht")
